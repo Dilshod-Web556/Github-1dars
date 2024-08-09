@@ -1,0 +1,88 @@
+h1 {
+    background-color: rgb(109, 198, 234);
+    border: 3px solid red;
+    border-radius: 30px;
+    text-align: center;
+    color: rgb(29, 0, 92);
+}
+
+i {
+    color: rgb(169, 0, 0);
+}
+
+h2 {
+    color: rgb(0, 99, 0);
+}
+
+.rt {
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+
+.yt {
+    text-align: center;
+}
+
+.dr{
+    color: green;
+    background-color: yellow;
+    text-align: center; 
+}
+
+.Lion{
+text-align: center;
+background-color: black;
+border-radius: 10px;
+}
+
+button{
+background-color: rgb(76, 140, 251);
+color: white;
+border: none;
+text-align: center;
+padding-left: 100px;
+padding-right: 100px;
+height: 30px;
+}
+
+.teg{
+    color: green;
+    background-color: yellow;
+    text-align: center; 
+}
+
+table, th, td{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+
+th, td{
+text-align: center;
+color: white;
+}
+
+.dor{
+padding-left: 350px;
+padding-right: 350px;
+background-color: black;
+color: white;
+}
+
+td{
+    padding-left: 60px;
+    padding-right: 60px;
+background-color: red;
+}
+
+.green{
+background-color: green;
+color: white;
+}
+
+.blue{
+background-color: blue;
+
+}
